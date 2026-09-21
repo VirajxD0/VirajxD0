@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Viraj%20Deshmukh&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer&descSize=22&descAlignY=64&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Viraj%20Deshmukh&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer&descSize=22&descAlignY=64&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+production-grade+web+apps;Java+%7C+Spring+Boot+%7C+React+%7C+Next.js+%7C+Node.js;Shipping+real+products+for+real+clients;Cloud+%26+CI%2FCD+on+Azure+%2F+AWS" alt="Typing SVG"/>
@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=VirajxD0&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Status-Open%20to%20Full--Stack%20Roles-22c55e?style=for-the-badge" />
 
 </div>
