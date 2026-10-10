@@ -18,6 +18,14 @@
 
 </div>
 
+<!-- <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VirajxD0/VirajxD0/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VirajxD0/VirajxD0/output/github-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/VirajxD0/VirajxD0/output/github-snake-dark.svg" width="100%">
+</picture>
+</div> -->
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VirajxD0/VirajxD0/output/github-snake-dark.svg">
