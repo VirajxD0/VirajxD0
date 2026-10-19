@@ -5,6 +5,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=42B883&center=true&vCenter=true&width=700&lines=Forward+Deployed+Engineer+(FDE)+%7C+Software+Engineer;Building+production-grade+software;Java+%7C+Spring+Boot+%7C+React+%7C+Next.js+%7C+Node.js;Shipping+real+products+for+real+clients;Cloud+%26+CI%2FCD+on+Azure+%2F+AWS" alt="Typing SVG"/>
 </a>
+<a href="https://virajxd0.github.io/NewPortfolio/">virajxd0.github.io/NewPortfolio</a>
 
 <br/>
 
@@ -49,7 +50,7 @@
 <b>Strengths:</b> Clean code, problem solving, working closely with clients<br/>
 <b>FDE Focus:</b> Embedding with clients — building, deploying & iterating in their environment<br/>
 <b>Hackathons:</b> Smart India Hackathon (SIH) x2, 3rd place internal hackathon, CTF<br/>
-<b>Portfolio:</b> <a href="https://virajxd0.github.io/NewPortfolio/">virajxd0.github.io/PortfolioFinal</a><br/>
+<b>Portfolio:</b> <a href="https://virajxd0.github.io/NewPortfolio/">virajxd0.github.io/NewPortfolio</a><br/>
 <br/>
 
 🚀 Built and deployed production sites including <a href="https://playnear.in"><img src="https://img.shields.io/badge/playnear.in-42B883?style=flat&logo=googlechrome&logoColor=white"/></a> and <a href="https://hesprosports.com"><img src="https://img.shields.io/badge/hesprosports.com-42B883?style=flat&logo=googlechrome&logoColor=white"/></a><br/>
