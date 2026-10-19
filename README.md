@@ -6,8 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=42B883&center=true&vCenter=true&width=700&lines=Forward+Deployed+Engineer+(FDE)+%7C+Software+Engineer;Building+production-grade+software;Java+%7C+Spring+Boot+%7C+React+%7C+Next.js+%7C+Node.js;Shipping+real+products+for+real+clients;Cloud+%26+CI%2FCD+on+Azure+%2F+AWS" alt="Typing SVG"/>
 </a>
 <p>
-  <a href="https://virajxd0.github.io/NewPortfolio/" style="color: green;">virajxd0.github.io/NewPortfolio</a>
+  <a href="https://github.io"><span style="color: #2ea44f;">virajxd0.github.io/NewPortfolio</span></a>
 </p>
+
 
 
 <br/>
