@@ -49,7 +49,7 @@
 <b>Strengths:</b> Clean code, problem solving, working closely with clients<br/>
 <b>FDE Focus:</b> Embedding with clients — building, deploying & iterating in their environment<br/>
 <b>Hackathons:</b> Smart India Hackathon (SIH) x2, 3rd place internal hackathon, CTF<br/>
-<b>Portfolio:</b> <a href="https://virajxd0.github.io/PortfolioFinal/">virajxd0.github.io/PortfolioFinal</a><br/>
+<b>Portfolio:</b> <a href="https://virajxd0.github.io/NewPortfolio/">virajxd0.github.io/PortfolioFinal</a><br/>
 <br/>
 
 🚀 Built and deployed production sites including <a href="https://playnear.in"><img src="https://img.shields.io/badge/playnear.in-42B883?style=flat&logo=googlechrome&logoColor=white"/></a> and <a href="https://hesprosports.com"><img src="https://img.shields.io/badge/hesprosports.com-42B883?style=flat&logo=googlechrome&logoColor=white"/></a><br/>
